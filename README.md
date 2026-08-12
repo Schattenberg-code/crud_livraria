@@ -2,6 +2,9 @@
 
 Sistema CRUD para gerenciamento de livros, permitindo cadastrar, listar, editar e excluir livros.
 
+> Este projeto é um **fork do repositório original `icrcode-senai`**, utilizado como base para a realização desta atividade.
+
+
 ## Objetivo
 
 Esta atividade tem como principal objetivo aplicar o conceito de **Prepared Statements** no desenvolvimento de operações com banco de dados, aumentando a segurança da aplicação e ajudando a prevenir vulnerabilidades de **SQL Injection**.
