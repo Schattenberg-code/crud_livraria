@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $usuario = "root";
-$senha = "root";
+$senha = "";
 $banco = "livraria_lucasa_m2";
 
 $conexao = new mysqli($host, $usuario, $senha, $banco);
